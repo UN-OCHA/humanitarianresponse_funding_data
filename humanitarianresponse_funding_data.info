@@ -1,0 +1,8 @@
+name = HumanitarianResponse Funding Data
+description = Terms for the funding taxonomy
+core = 7.x
+package = Humanitarianresponse data
+dependencies[] = humanitarianresponse_funding
+dependencies[] = uuid
+features[features_api][] = api:1
+features[uuid_entities][] = funding
