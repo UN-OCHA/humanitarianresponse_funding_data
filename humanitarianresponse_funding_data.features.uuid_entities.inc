@@ -18,9 +18,9 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
-    'name' => 'FTS',
+    'name' => 'Financial Tracking',
     'path' => array(
-      'alias' => 'funding/fts',
+      'alias' => 'funding/financial-tracking',
       'pathauto' => FALSE,
     ),
     'rdf_mapping' => array(
@@ -63,9 +63,9 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
-    'name' => 'CAP',
+    'name' => 'Consolidated Appeal',
     'path' => array(
-      'alias' => 'funding/cap',
+      'alias' => 'funding/consolidated-appeal',
       'pathauto' => FALSE,
     ),
     'rdf_mapping' => array(
