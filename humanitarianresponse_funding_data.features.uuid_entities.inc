@@ -100,6 +100,100 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
     'vocabulary_machine_name' => 'funding',
     'weight' => '0',
   );
+  $entities['funding'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/07a9503c-e2df-cbb4-adcb-20f2ea0d1fe6',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'format' => 'filtered_html',
+    'i18n_tsid' => '0',
+    'language' => 'und',
+    'name' => 'Central Emergency Response Fund (CERF)',
+    'path' => array(
+      'alias' => 'funding/central-emergency-response-fund-cerf',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => '07a9503c-e2df-cbb4-adcb-20f2ea0d1fe6',
+    'vocabulary_machine_name' => 'funding',
+    'weight' => '0',
+  );
+  $entities['funding'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/807b5d74-39f8-3374-21e5-7046df0b80c1',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'format' => 'filtered_html',
+    'i18n_tsid' => '0',
+    'language' => 'und',
+    'name' => 'Pooled Fund',
+    'path' => array(
+      'alias' => 'funding/pooled-fund',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => '807b5d74-39f8-3374-21e5-7046df0b80c1',
+    'vocabulary_machine_name' => 'funding',
+    'weight' => '0',
+  );
 
   return $entities;
 }
