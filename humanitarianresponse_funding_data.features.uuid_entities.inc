@@ -18,6 +18,8 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Financial Tracking (FTS)',
     'path' => array(
       'alias' => 'funding/financial-tracking',
@@ -63,6 +65,8 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Consolidated Appeal (CAP)',
     'path' => array(
       'alias' => 'funding/consolidated-appeal',
