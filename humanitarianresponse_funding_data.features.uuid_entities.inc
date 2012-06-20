@@ -17,10 +17,27 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Financial Tracking (FTS)',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Financial Tracking (FTS)',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'funding/financial-tracking',
       'pathauto' => FALSE,
@@ -64,10 +81,27 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Consolidated Appeal (CAP)',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Consolidated Appeal (CAP)',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'funding/consolidated-appeal',
       'pathauto' => FALSE,
@@ -111,10 +145,27 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'filtered_html',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'filtered_html',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Central Emergency Response Fund (CERF)',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Central Emergency Response Fund (CERF)',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'funding/central-emergency-response-fund-cerf',
       'pathauto' => FALSE,
@@ -158,10 +209,27 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'filtered_html',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'filtered_html',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Pooled Fund',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Pooled Fund',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'funding/pooled-fund',
       'pathauto' => FALSE,
