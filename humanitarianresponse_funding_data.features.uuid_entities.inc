@@ -36,6 +36,18 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
           'value' => 'Financial Tracking (FTS)',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Financial Tracking (FTS)',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Suivi Financier (FTS)',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'funding/financial-tracking',
@@ -97,6 +109,18 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Consolidated Appeal (CAP)',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Consolidated Appeal (CAP)',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Appel Commun (CAP)',
         ),
       ),
     ),
@@ -162,6 +186,18 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
           'value' => 'Central Emergency Response Fund (CERF)',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Central Emergency Response Fund (CERF)',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Fond Central de Réponse d\'Urgence (CERF)',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'funding/central-emergency-response-fund-cerf',
@@ -223,6 +259,18 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Pooled Fund',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Pooled Fund',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Fond Commun',
         ),
       ),
     ),
