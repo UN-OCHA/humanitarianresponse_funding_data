@@ -93,14 +93,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         'en' => array(
           'language' => 'en',
           'source' => '',
-          'uid' => '1',
           'status' => '1',
           'translate' => '0',
         ),
         'fr' => array(
           'language' => 'fr',
           'source' => 'en',
-          'uid' => '1',
           'status' => '1',
           'translate' => '0',
         ),
@@ -193,14 +191,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         'en' => array(
           'language' => 'en',
           'source' => '',
-          'uid' => '1',
           'status' => '1',
           'translate' => '0',
         ),
         'fr' => array(
           'language' => 'fr',
           'source' => 'en',
-          'uid' => '1',
           'status' => '1',
           'translate' => '0',
         ),
@@ -293,14 +289,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         'en' => array(
           'language' => 'en',
           'source' => '',
-          'uid' => '1',
           'status' => '1',
           'translate' => '0',
         ),
         'fr' => array(
           'language' => 'fr',
           'source' => 'en',
-          'uid' => '1',
           'status' => '1',
           'translate' => '0',
         ),
@@ -378,14 +372,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         'en' => array(
           'language' => 'en',
           'source' => '',
-          'uid' => '1',
           'status' => '1',
           'translate' => '0',
         ),
         'fr' => array(
           'language' => 'fr',
           'source' => 'en',
-          'uid' => '1',
           'status' => '1',
           'translate' => '0',
         ),
