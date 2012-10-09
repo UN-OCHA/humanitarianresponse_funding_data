@@ -48,6 +48,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
           'value' => 'Suivi Financier (FTS)',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Seguimiento Financiero (FTS)',
+        ),
+      ),
       'und' => array(
         0 => array(
           'format' => NULL,
@@ -102,6 +108,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '30e8e980-7f18-afe4-f136-b0fe6ec903f4',
@@ -144,6 +156,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Appel Commun (CAP)',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Llamamientos cosolidados (CAP)',
         ),
       ),
       'und' => array(
@@ -200,6 +218,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '21e36383-ca64-56d4-3526-5fe3167acf7f',
@@ -242,6 +266,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Fond Central de Réponse d\'Urgence (CERF)',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Fondo Central de Respuesta a Emergencias (CERF)',
         ),
       ),
       'und' => array(
@@ -298,6 +328,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '07a9503c-e2df-cbb4-adcb-20f2ea0d1fe6',
@@ -325,6 +361,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Fond Commun',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Fondo Común',
         ),
       ),
       'und' => array(
@@ -377,6 +419,12 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
