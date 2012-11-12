@@ -265,7 +265,7 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
       'fr' => array(
         0 => array(
           'format' => NULL,
-          'value' => 'Fond Central de Réponse d\'Urgence (CERF)',
+          'value' => 'Fonds Central de Réponse d\'Urgence (CERF)',
         ),
       ),
       'es' => array(
@@ -360,7 +360,7 @@ function humanitarianresponse_funding_data_uuid_default_entities() {
       'fr' => array(
         0 => array(
           'format' => NULL,
-          'value' => 'Fond Commun',
+          'value' => 'Fonds Commun',
         ),
       ),
       'es' => array(
